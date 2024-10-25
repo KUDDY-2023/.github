@@ -70,6 +70,9 @@ Traveler와 K-buddy는 일정, 선호지, 시간 등을 조율하며 여행의 �
 </br></br>
 
 ## System Architecture
+<div style="width: 100%; display: flex; flex-direction: column; justify-content: center;">
+    <img src="image/flow.png" width="100%"></img><br/>
+<div>
 
 
 </br></br>
