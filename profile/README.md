@@ -78,6 +78,8 @@ Traveler와 K-buddy는 일정, 선호지, 시간 등을 조율하며 여행의 �
 </br></br>
 
 ## Skills
+
+### Front-End
 <div display=flex>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">   
@@ -110,8 +112,41 @@ Traveler와 K-buddy는 일정, 선호지, 시간 등을 조율하며 여행의 �
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"> 
 
 
+### Back-End
+<div display="flex">
+  
+  <!-- Application -->
+  <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20.svg?&style=flat-square&logo=Apache Kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zookeeper-FF6600.svg?&style=flat-square&logo=Apache&logoColor=white"/>
+</div>
+
+<div display="flex">
+  <!-- Infrastructure -->
+  <img src="https://img.shields.io/badge/AWS RDS(MySQL)-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS EC2-232F3E.svg?&style=flat-square&logo=Amazon EC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31.svg?&style=flat-square&logo=Amazon S3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS Route 53-232F3E.svg?&style=flat-square&logo=Amazon Route 53&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639.svg?&style=flat-square&logo=Nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP Compute Engine-4285F4.svg?&style=flat-square&logo=Google Cloud&logoColor=white"/>
+</div>
+<div display="flex">
+  <!-- Deployment -->
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=flat-square&logo=GitHub Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS CodeDeploy-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  
+</div>
 
 
+
+
+<br></br>
 
 ## Contributors 
 
